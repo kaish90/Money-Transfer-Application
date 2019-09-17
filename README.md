@@ -1,8 +1,5 @@
 # Money-Transfer-Application
-A simple restful money transfer application using vert.x framework
-
-# Money-Transfer-Application
-A simple restful money transfer application using vert.x framework
+A simple restful money transfer application using vert.x https://vertx.io/ framework
 
 Currently the APIs supported are :
 
@@ -54,3 +51,4 @@ Currently the APIs supported are :
 6. Get user account details :
    POST user/:userId/account/:accountId
    
+Assumption - Currency Exchange and Bank details are not considered as of now for implementation.
